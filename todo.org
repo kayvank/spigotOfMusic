@@ -1,14 +1,13 @@
 * Making Music from censors
-Music is to a great extend an event-based phenomenon. SpigetOfMusic transforms Censor-Generated transient numbers to the product type (Pitch, Duration)
-SpigetOfMusic is a sensor to music transducer!
+Music is to a great extend an event-based phenomenon. SpigetOfMusic transforms Censor-Generated transient numbers to the product type (Pitch, Duration). SpigetOfMusic is a sensor to music transducer!
 ** Detail
 *** These computation will be performed in parallel
 **** Pitch computation
 ***** compute Radix22(\pi{}) * Radix22(sensor-generated number)
 ****** convert to modular 12 ??
 **** Duration computation
-***** compute Radix22(e) * Radix22(sensor-generated number)
-****** convert to modular 12 ??
+***** compute Radix5(e) * Radix22(sensor-generated number)
+****** convert to modular 5 ??
 *** Segment 
 **** store the computations above as a Segment, Functor
 *** Segment Reuse
