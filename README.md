@@ -1,4 +1,4 @@
-[!deployment-model](docs/diagrams/deployment-model.jpg)
+![deployment-model](docs/diagrams/deployment-model.jpg)
 
 # SpigetOfMusic
 compose music from sensor events deployed to Raspberry Pi developed in Rholang
