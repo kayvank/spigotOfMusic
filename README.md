@@ -1,14 +1,17 @@
-# SpigetOfMusic
+![deployment-model](docs/diagrams/deployment-model.jpg)
 
+# SpigotOfMusic
 compose music from sensor events deployed to Raspberry Pi developed in Rholang
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+TBD
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
+TBD
 
 ```
 Give examples
@@ -17,6 +20,7 @@ Give examples
 ## Running the tests
 
 How to run the automated tests for this system
+TBD
 
 ```
 Give an example
